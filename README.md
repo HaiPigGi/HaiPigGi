@@ -27,23 +27,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haipiggi" alt="haipiggi" /></a> </p>
 
-- 🔭 I’m currently working from Home [-](-)
+- 🔭 I’m currently working from Home 
 
 - 🌱 I’m currently learning **I Learning Many Language Programming Like PHP, C, C++, Python, And Also i Basicly Learning Java**
 
 - 👯 I’m looking to collaborate on [Donor Darah](https://github.com/HaiPigGi/Donor_Darah__Laravel-API-FONNTE)
 
-- 🤝 I’m looking for help with [-](-)
-
 - 👨‍💻 All of my projects are available at [GitHub : https://github.com/HaiPigGi](GitHub : https://github.com/HaiPigGi)
-
-- 📝 I regularly write articles on [-](-)
 
 - 💬 Ask me about **Laravel, React, Next, Java**
 
 - 📫 How to reach me **leonardobryan32@gmail.com**
-
-- 📄 Know about my experiences [-](-)
 
 - ⚡ Fun fact **I think I'm Is Confident for Sometimes**
 
