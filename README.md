@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">A passionate FullStack developer from Indonesia</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://www.instagram.com/looyaaa__/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+  <a href="https://www.tiktok.com/ajazuu">
+    <img height="60" src="https://static-00.iconduck.com/assets.00/tik-tok-icon-1024x1024-zwq641op.png"/>
+  </a>
+</p>
+</p>
+
+<p align="center">
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haipiggi&label=Profile%20views&color=0e75b6&style=flat" alt="haipiggi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haipiggi" alt="haipiggi" /></a> </p>
