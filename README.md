@@ -11,7 +11,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
   <a href="https://www.tiktok.com/ajazuu">
-    <img height="50" src="https://link-to-your-tiktok-icon.png"/>
+    <img height="50" src="https://link-to-your-tiktok-icon.png](https://static-00.iconduck.com/assets.00/tik-tok-icon-1024x1024-zwq641op.png"/>
   </a>
 </p>
 </p>
