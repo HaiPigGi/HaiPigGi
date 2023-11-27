@@ -36,16 +36,11 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
+name: Leonardo Bryan Nathanael
+located_in: Indonesia, Yogyakarta
 current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+
+company: Individual
 
 fields_of_interests:
   [
@@ -54,14 +49,11 @@ fields_of_interests:
     "Machine Learning",
     "UI/UX",
     "Game Development",
-    "DevOps",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
   ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
