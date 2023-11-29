@@ -10,12 +10,6 @@
 </h1>
 
 <p align="center">
-<a href="https://www.instagram.com/looyaaa__/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-  <a href="https://www.tiktok.com/ajazuu">
-    <img height="60" src="https://static-00.iconduck.com/assets.00/tik-tok-icon-1024x1024-zwq641op.png"/>
-  </a>
 </p>
 </p>
 
@@ -52,6 +46,9 @@
 <a href="https://fb.com/leo bry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leo bry" height="30" width="40" /></a>
 <a href="https://instagram.com/looyaaa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="looyaaa__" height="30" width="40" /></a>
 <a href="https://medium.com/@haipiggi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haipiggi" height="30" width="40" /></a>
+   <a href="https://www.tiktok.com/ajazuu">
+    <img height="60" src="https://static-00.iconduck.com/assets.00/tik-tok-icon-1024x1024-zwq641op.png"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
