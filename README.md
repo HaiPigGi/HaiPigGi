@@ -19,6 +19,9 @@
 </p>
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiPigGi&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
@@ -40,6 +43,7 @@
 - 📫 How to reach me **leonardobryan32@gmail.com**
 
 - ⚡ Fun fact **I think I'm Is Confident for Sometimes**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
