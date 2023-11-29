@@ -14,10 +14,8 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/Ki8dpb6NiQ8kKxeXa5/giphy.webp">
+  <img src= "https://i.giphy.com/media/daXA1fM8I64QMmrCPR/giphy.webp">
 </p>
-https://tenor.com/id/view/genshin-impact-raiden-shogun-cute-gif-24702365
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haipiggi&label=Profile%20views&color=0e75b6&style=flat" alt="haipiggi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haipiggi" alt="haipiggi" /></a> </p>
