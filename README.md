@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">A passionate FullStack developer from Indonesia</h3>
 
 <p align="center">
